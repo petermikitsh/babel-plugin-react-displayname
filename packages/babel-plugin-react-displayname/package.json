@@ -5,6 +5,9 @@
   "scripts": {
     "test": "node test"
   },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  },
   "main": "src/index.js",
   "devDependencies": {
     "@babel/core": "^7.8.6",
