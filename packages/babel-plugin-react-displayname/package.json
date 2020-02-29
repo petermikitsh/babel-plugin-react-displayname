@@ -1,0 +1,21 @@
+{
+  "name": "babel-plugin-react-displayname",
+  "version": "0.0.0",
+  "license": "MIT",
+  "scripts": {
+    "test": "node test"
+  },
+  "main": "src/index.js",
+  "devDependencies": {
+    "@babel/core": "^7.8.6",
+    "@babel/preset-react": "^7.8.3",
+    "@babel/preset-typescript": "^7.8.3",
+    "@types/react": "^16.9.23",
+    "chalk": "^3.0.0",
+    "diff": "^4.0.2",
+    "watch": "^1.0.2"
+  },
+  "dependencies": {
+    "@babel/types": "^7.8.6"
+  }
+}
